@@ -1,0 +1,33 @@
+
+.box{
+    position: fixed;
+    margin-left: 40%;;
+   margin-top: 30px; 
+   text-align: center;
+   background-image: linear-gradient( #cbdfbd , #f19c79, #d4e09b);
+   border-radius: 8px;
+}
+ul{
+    margin: 8px;
+    list-style-type: none;
+    margin-bottom: 30px;
+    background-color: white;
+    border-radius: 8px;
+    
+}
+h1{
+    color: white;
+    padding: 10px;
+}
+strong{
+    color: #f7fff7;
+}
+li{
+    padding: 10px;
+}
+#formadd {
+    margin-bottom: 20px;
+}
+button{
+    margin-left: 7px;
+}
